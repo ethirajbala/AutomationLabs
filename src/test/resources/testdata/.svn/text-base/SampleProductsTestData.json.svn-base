@@ -1,0 +1,30 @@
+[
+	{
+		"productFamily": "iPhone 5",
+		"capacity": "16GB",
+		"color": "Black",
+		"carrier": "AT&T",
+		"atr": 50
+	},
+	{
+		"productFamily": "iPhone 5",
+		"capacity": "16GB",
+		"color": "White",
+		"carrier": "AT&T",
+		"atr": 35
+	},
+	{
+		"productFamily": "iPhone 5",
+		"capacity": "16GB",
+		"color": "Black",
+		"carrier": "Sprint",
+		"atr": 15
+	},
+	{
+		"productFamily": "iPhone 5",
+		"capacity": "16GB",
+		"color": "White",
+		"carrier": "Sprint",
+		"atr": 12
+	}
+]
